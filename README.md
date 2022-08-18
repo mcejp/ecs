@@ -32,20 +32,18 @@ We define a movement system which matches all entities which have both a Positio
 We have some over-arching "world" which handles the internal mechanics of the framework, and when we call "tick" each system is run in turn. We see that the player's position is increase by its velocity and the wall's position is unchanged as expected.
 
 # Other Documents
-## "Game Engine Architecure", Jason Gregory
-Full citation: Jason Gregory, "Game Engine Architecure", Natick, MA. A K Peters, 2009
-Pages 728 - 733
+- Jason Gregory, "Game Engine Architecure", Natick, MA. A K Peters, 2009. Pages 728 - 733.
 
 - Rob Fermier, ["Creating a Data Driven Engine"](), Game Developer's Conference, 2002.   
-Original link to slides from book [at gamasutra.com](http://www.gamasutra.com/features/gdarchive/2002/rob_fermier.ppt) does not give expected result.
+Slides available via [Wayback Machine](http://web.archive.org/web/20070513192418/https://www.gamasutra.com/features/gdcarchive/2002/rob_fermier.ppt).
 
 - Scott Bilas, ["A Data-Driven Game Object System"](http://www.gdcvault.com/play/1022543/A-Data-Driven-Object), Game Developer's Conference, 2002.   
-Original link to slides from book [at drizzle.com](http://drizzle.com/~scottb/gdc/game-objects.ppt) is down. Slides available at [Scott Bilas's site](http://scottbilas.com/games/dungeon-siege/).
+Slides available via [Wayback Machine](http://web.archive.org/web/20030318075808/http://www.drizzle.com/~scottb/gdc/game-objects.ppt). [PDF version](https://www.gamedevs.org/uploads/data-driven-game-object-system.pdf).
 
 - Alex Duran, ["Building Object Systems: Features, Tradeoffs and Pitfalls"](http://www.gdcvault.com/play/1022628/Building-An-Object-System-Features), Game Developer's Conference, 2003.   
-Original link to slides from book [at gamasutra.com](http://www.gamasutra.com/features/gdcarchive/2003/Duran_Alex.ppt) does not give expected result.
+Slides available via [Wayback Machine](http://web.archive.org/web/20070513192450/http://www.gamasutra.com/features/gdcarchive/2003/Duran_Alex.ppt).
 
 - Jeremy Chatelaine, ["Enabling Data Driven Tuning via Existing Tools"](http://www.gdcvault.com/play/1022653/Enabling-Data-Driven-Design-Tuning), Game Developer's Conference, 2003   
-Original link to slides from book [at gamasutra.com](http://www.gamasutra.com/features/gdcarchive/2003/Chatelaine_Jeremy.ppt) does not give expected result.
+Slides available via [Wayback Machine](https://web.archive.org/web/20080227153328/http://www.gamasutra.com/features/gdcarchive/2003/Chatelaine_Jeremy.ppt).
 
 - Doug Church, ["Object Systems"](http://chrishecker.com/images/6/6f/ObjSys.ppt), from a conference in Seoul, South Korea organised by Chris Hecker, Casey Muratori and Doug Church.
